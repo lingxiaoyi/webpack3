@@ -2,9 +2,9 @@ import $ from '../../../vendor/jquery.min';
 import WebStorageCache from '../../../vendor/web-storage-cache.min.js';
 import Swiper from '../../../vendor/swiper.min';
 import {_indexGg_,currChannel,_newsList_} from './index_gg';
-import  '../../sass/database.scss';
-import  '../../sass/common.scss';
-import  '../../sass/newindex.scss';
+import  '../../public-resource/sass/database.scss';
+import  '../../public-resource/sass/common.scss';
+import  '../../public-resource/sass/newindex.scss';
 import  './style.scss';
 
 /*var host = "http://172.18.250.87:8381/dfsports_h5/";//测试服

@@ -4,7 +4,7 @@ body.new-data{
 header{
   .crumbs-data{width:3rem;height:100%;float: left;font-size: 0.28rem;color:#333333;line-height: 0.9rem;
     i{
-      float:left;width:0.6rem;height:100%;background: url(../img/i-sanjiao.png) no-repeat center center;background-size: 0.1rem 0.18rem;
+      float:left;width:0.6rem;height:100%;background: url(../../imgs/i-sanjiao.png) no-repeat center center;background-size: 0.1rem 0.18rem;
     }
     span{
       float:left;height:100%;
@@ -54,10 +54,10 @@ nav.data{
       width:0.7rem;height:0.7rem;display: inline-block;background-size: 0.17rem 0.29rem;background-repeat: no-repeat;background-position: center;
     }
     .btn-left{
-      background-image: url(../img/i-sanjiao-l.png);
+      background-image: url(../../imgs/i-sanjiao-l.png);
     }
     .btn-right{
-      background-image: url(../img/i-sanjiao-r.png);
+      background-image: url(../../imgs/i-sanjiao-r.png);
     }
     .tit{
       display: inline-block;width:2.5rem;color:#333333;font-size: 0.28rem;line-height: 0.7rem;vertical-align: 0.25rem;height:0.7rem;font-weight: bold;
@@ -96,7 +96,7 @@ nav.data{
           &:last-child{float: right}
         }
         .btn-order{
-          width:1.3rem;height:0.5rem;border:1px solid #007dd4;border-radius: 0.5rem;text-indent: 0.58rem;line-height: 0.5rem;font-size: 0.24rem;margin: 0.2rem auto 0;background: url(../img/i-clock.png) no-repeat 0.25rem center ;background-size: 0.2rem;
+          width:1.3rem;height:0.5rem;border:1px solid #007dd4;border-radius: 0.5rem;text-indent: 0.58rem;line-height: 0.5rem;font-size: 0.24rem;margin: 0.2rem auto 0;background: url(../../imgs/i-clock.png) no-repeat 0.25rem center ;background-size: 0.2rem;
           a {
             color: #007dd4;
           }

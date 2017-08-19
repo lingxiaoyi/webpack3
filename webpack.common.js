@@ -5,13 +5,14 @@ const HtmlWebpackPlugin=require('html-webpack-plugin');
 
 module.exports = {
     entry: {
-        index:'./src/pages/index/index_tt.js'/*,
-        data:'./src/pages/data/data_all.js'*/
+        index:'./src/pages/index/index_tt.js',
+        data:'./src/pages/data/data_all.js',
+        vendor: ["jquery"],
     },
 
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: '[name].bundle.js',
+        filename: './js/[name].bundle.js',
         publicPath: '',
         sourceMapFilename: '[name].map'
     },
@@ -63,7 +64,8 @@ module.exports = {
     plugins: [
         //new ForkCheckerPlugin(),
         new webpack.optimize.CommonsChunkPlugin({
-            name: ['polyfills', 'vendor'].reverse()
+            /*name: ['polyfills', 'vendor'].reverse()*/
+            name:'vendor'
         }),
 
         new HtmlWebpackPlugin({
