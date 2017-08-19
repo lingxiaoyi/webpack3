@@ -63,7 +63,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index_tt.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index_tt.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/pages/index/index_tt.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="189">
@@ -152,6 +152,31 @@
                     <marker date="1503066524352" expanded="true" signature="59733:59746" ph="..." />
                     <marker date="1503066524352" expanded="true" signature="60112:60125" ph="..." />
                     <marker date="1503066524352" expanded="true" signature="60728:60741" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="data_all.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/pages/data/data_all.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <marker date="1503026864640" expanded="true" signature="9165:9179" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="10578:10679" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="10776:11231" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="11326:11676" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="20370:20568" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="20682:20775" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="20889:20979" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="21193:21452" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="23894:24646" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="24015:24612" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="24070:24260" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="24381:24573" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="32701:32720" ph="..." />
+                    <marker date="1503026864640" expanded="true" signature="36306:36982" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -352,11 +377,11 @@
       <recent name="D:\h5-code\h5-sports-webpack\vendor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\h5-code\h5-sports-webpack\src\pages\data" />
       <recent name="D:\h5-code\h5-sports-webpack\src\pages\index" />
       <recent name="D:\h5-code\h5-sports-webpack\src\imgs" />
       <recent name="D:\h5-code\h5-sports-webpack\src\sass" />
       <recent name="D:\h5-code\h5-sports-webpack\vendor" />
-      <recent name="D:\h5-code\h5-sports-webpack\src\libs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -435,12 +460,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502961456232</updated>
-      <workItem from="1503034634747" duration="24328000" />
+      <workItem from="1503034634747" duration="24693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24328000" />
+    <option name="totallyTimeSpent" value="24693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -842,6 +867,29 @@
             <marker date="1503066524352" expanded="true" signature="59733:59746" ph="..." />
             <marker date="1503066524352" expanded="true" signature="60112:60125" ph="..." />
             <marker date="1503066524352" expanded="true" signature="60728:60741" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/data/data_all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1503026864640" expanded="true" signature="9165:9179" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="10578:10679" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="10776:11231" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="11326:11676" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="20370:20568" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="20682:20775" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="20889:20979" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="21193:21452" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="23894:24646" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="24015:24612" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="24070:24260" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="24381:24573" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="32701:32720" ph="..." />
+            <marker date="1503026864640" expanded="true" signature="36306:36982" ph="..." />
           </folding>
         </state>
       </provider>
